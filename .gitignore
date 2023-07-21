@@ -162,3 +162,5 @@ cython_debug/
 
 .DS*
 CNN/
+pizza_steak_sushi/
+*.zip
